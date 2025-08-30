@@ -45,6 +45,13 @@ Fine Aggregate (kg)	Sand content
 Age (days)	Curing age (1–365 days)
 Strength (MPa)	Target variable (compressive strength)
 📊 Data Analysis & Visualizations
+![Cement](output.png)
+![Coarse Aggregate](output2.png)
+![Blast Furnace Slag](output1.png)
+![Fine Aggregate](output3.png)
+![Fly Ash](output4.png)
+![Water](output5.png)
+![SuperPlasticizer](output7.png)
 
 1️⃣ Correlation Matrix
 
