@@ -3,7 +3,11 @@
 This project is a machine learning application that predicts the compressive strength of concrete (measured in MPa) based on key input features such as cement content, water, aggregates, and curing age.
 The model is powered by a Random Forest Regressor trained on the Concrete Compressive Strength dataset (UCI Repository)
 .
+
+
 My AppLink:https://main-ml-project-tq2c9q3oghopnsufvndabo.streamlit.app/
+
+
 📊 This project helps civil engineers, researchers, and construction professionals estimate concrete strength quickly without destructive lab testing.
 
 🚀 Features
@@ -78,7 +82,6 @@ Create a virtual environment:
 
 python -m venv venv
 # Activate:
-# Linux/Mac: source venv/bin/activate
 # Windows: venv\Scripts\activate
 
 
@@ -103,9 +106,10 @@ jupyter notebook project.ipynb
 
 ▶️ Running the App (Optional)
 
-If you built a frontend (app.py with Streamlit or Gradio):
+If you built a frontend (app.py with Streamlit):
 
 streamlit run app.py
+![APP Photo](appscreenshot.png)
 
 
 or
